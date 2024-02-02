@@ -13,3 +13,5 @@ plotly==5.10.0
 importlib-metadata==4.12.0
 tqdm==4.64.1
 backports.zoneinfo; python_version < '3.9'
+mysql-connector
+vnpy_ib
